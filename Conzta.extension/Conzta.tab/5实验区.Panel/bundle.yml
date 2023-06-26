@@ -1,0 +1,21 @@
+layout:
+  - SayHi
+  - SayHi2
+  - SayHi3
+  - SayHi4
+  - SayHi5
+  - SayHi6
+  - SayHi7
+  - SayHi8
+  - SayHi9
+  - SayHi10
+  - FindOutGrids
+  - WallDistances
+  - C#Script
+  - ImportLibs
+  - c#WallDistances
+
+background: 
+  title: '#b2d4b6'
+  panel: '#b2d4b6'
+  slideout: '#b2d4b6'

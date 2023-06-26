@@ -1,0 +1,8 @@
+title: 外部输出
+
+layout:
+  - ViewImage
+  - ViewsDWG
+  - SheetsPDF
+  - SheetsDWG
+  - SheetsBoth
