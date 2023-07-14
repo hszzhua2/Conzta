@@ -1,0 +1,7 @@
+layout:
+  - ButtonA
+
+background: 
+  title: '#b2d4b6'
+  panel: '#b2d4b6'
+  slideout: '#b2d4b6'
