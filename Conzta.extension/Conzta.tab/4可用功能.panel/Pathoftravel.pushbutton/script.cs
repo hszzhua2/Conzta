@@ -15,7 +15,7 @@ using Autodesk.Revit.DB.Structure;
 using System.Collections;
 
 
-namespace 一点到多房间pathoftravel
+namespace point2roomspathoftravel
 {
     [Transaction(TransactionMode.Manual)]
     public class PathOfTravelCommand : IExternalCommand
