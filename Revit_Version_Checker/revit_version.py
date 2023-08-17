@@ -1,4 +1,4 @@
-import os, sys, stat
+import os, stat
 from tkinter import filedialog, messagebox
 
 # 获取当前工作目录
