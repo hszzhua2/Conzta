@@ -38,4 +38,4 @@ if filePaths:
 
     joinedMsg = "\n".join(msgs)
 
-    messagebox.showinfo ("Revit file formats", joinedMsg)
+    messagebox.showinfo("Revit file formats", joinedMsg)
